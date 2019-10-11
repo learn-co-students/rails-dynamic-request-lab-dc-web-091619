@@ -12,7 +12,7 @@
 * Use a controller instance variable to generate a dynamic ERB template.
 
 * Build a classical show action/view
-
+ 
 
 ## Instructions
 
